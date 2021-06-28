@@ -66,6 +66,13 @@ $themeColor: #aca276;
     }
     .company {
       color: $themeColor;
+      transition: all .2s ease;
+       &.link{
+        &:hover{
+          background: $themeColor;
+          color: white;
+        }
+      }
     }
     .location-wrapper {
       align-items: center;
