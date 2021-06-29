@@ -1,2 +1,2 @@
 # CV
-Created with CodeSandbox
+Well , its my CV as a website :)
