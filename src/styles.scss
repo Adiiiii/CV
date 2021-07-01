@@ -78,8 +78,8 @@ $themeColor: #aca276;
       align-items: center;
       margin-bottom: 36px;
       .location {
-        margin-left: 20px;
-        letter-spacing: 2px;
+        margin-left: 16px;
+        letter-spacing: 1px;
       }
       i, svg {
         color: $themeColor;
@@ -88,8 +88,10 @@ $themeColor: #aca276;
     }
 
     main {
+  font-family: "Roboto", sans-serif;
       line-height: 1.6;
       margin-bottom: 40px;
+      font-weight: 900;
       flex-direction: column;
       color: $textLight;
       p {
